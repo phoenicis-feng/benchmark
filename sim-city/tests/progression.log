@@ -1,0 +1,259 @@
+{
+  "built": 397,
+  "waited": 0,
+  "month": 408,
+  "stats": {
+    "population": 12230,
+    "housing": 12270,
+    "jobs": 9085,
+    "workforce": 6686,
+    "employed": 6686,
+    "unemployment": 0,
+    "congestion": 0.7880044982091612,
+    "commute": 16.411157642835775,
+    "happiness": 81.58634410470408,
+    "pollution": 0.9018692664416651,
+    "fire": 0.7014793801775951,
+    "education": 0.8378691290365631,
+    "health": 0.9141119570283593,
+    "power": 0.9863013698630136,
+    "water": 0.9863013698630136,
+    "powerCap": 18000,
+    "powerLoad": 14124.75,
+    "waterCap": 18900,
+    "waterLoad": 16000.649999999981
+  },
+  "cash": 7062077,
+  "goals": [
+    "settle",
+    "balanced",
+    "city",
+    "metropolis"
+  ],
+  "report": [
+    {
+      "month": 49,
+      "population": 1160,
+      "cash": 56626,
+      "happiness": 80,
+      "unemployment": 0,
+      "congestion": 0.12571974615721665,
+      "net": 1746,
+      "goals": [
+        "settle",
+        "balanced",
+        "city"
+      ]
+    },
+    {
+      "month": 73,
+      "population": 3733,
+      "cash": 238278,
+      "happiness": 61,
+      "unemployment": 0,
+      "congestion": 0.4503929406098211,
+      "net": 7512,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 97,
+      "population": 10766,
+      "cash": 471511,
+      "happiness": 83,
+      "unemployment": 0,
+      "congestion": 0.7532056860902847,
+      "net": 18657,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 121,
+      "population": 12230,
+      "cash": 968780,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 145,
+      "population": 12230,
+      "cash": 1478324,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 169,
+      "population": 12230,
+      "cash": 1987868,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 193,
+      "population": 12230,
+      "cash": 2497412,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 217,
+      "population": 12230,
+      "cash": 3006956,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 241,
+      "population": 12230,
+      "cash": 3516500,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 265,
+      "population": 12230,
+      "cash": 4026044,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 289,
+      "population": 12230,
+      "cash": 4535588,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 313,
+      "population": 12230,
+      "cash": 5045132,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 337,
+      "population": 12230,
+      "cash": 5554676,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 361,
+      "population": 12230,
+      "cash": 6064220,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    },
+    {
+      "month": 385,
+      "population": 12230,
+      "cash": 6573764,
+      "happiness": 82,
+      "unemployment": 0,
+      "congestion": 0.7880044982091612,
+      "net": 21231,
+      "goals": [
+        "settle",
+        "balanced",
+        "city",
+        "metropolis"
+      ]
+    }
+  ]
+}
